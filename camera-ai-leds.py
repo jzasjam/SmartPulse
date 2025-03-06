@@ -1,13 +1,19 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Use the camera for AI image recognition with a Teachable MAchine model
+    # and light up LEDs depending on predicted class
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+# Import required libraries
 import cv2
 import numpy as np
 import tflite_runtime.interpreter as tflite
 from picamera2 import Picamera2
 from gpiozero import LED
 
+# Define the LED pins (by GPIO reference)
 green = LED(4)
 yellow = LED(17)
 red = LED(27)
-
 
 # Load Teachable Machine model
 model_path = "fruit-ai/model_unquant.tflite"  # Update with your model's path
@@ -29,8 +35,6 @@ picam2.configure(config)
 
 # Enable Auto White Balance (AWB) to fix colors
 picam2.set_controls({"AwbMode": 1})  # 1 = Auto white balance
-# Alternative: Try "incandescent", "tungsten", "sunlight", or "cloudy" if auto is not working.
-
 
 # Set up OpenCV window size
 window_width = 640  # Adjust the window size as desired

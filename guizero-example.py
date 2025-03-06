@@ -14,11 +14,11 @@ def update_value():
     value_text.value = count  # Update the text properly
 
 # Set the Window Title
-app = App(title="Hello world")
+app = App(title="Hello world", width="400", height="300")
 # Set the welcome text
-welcome_message = Text(app, text="Welcome to my app")
+welcome_message = Text(app, text="Welcome to my counting app", size=20)
 # Set the value text
-value_text = Text(app, text="0")  # Start with 0
+value_text = Text(app, text="0", size=60)  # Start with 0
 
 # Update the value
 app.repeat(1000, update_value)  # Update  the value every 1000ms (1 second)

@@ -4,6 +4,9 @@
 # Import dependencies
 from sense_hat import SenseHat
 
+# Initialise Sense HAT 
+sense = SenseHat()
+
 # Define a function to call when the joystick is pressed up
 def pushed_up(event):
 	print(event)
