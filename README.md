@@ -1,4 +1,4 @@
-# SmartPulse Hackathon Sample Project Code
+# SmartPulse Hackathon Sample Project Code & Guides
 ## For SmartPulse Event at Sheffield Hallam University 15 Apr 2025
 Prepared by Jonathan Zasada-James For Sheffield Hallam University (2025)
 ------------------------------------------------------------------------
@@ -64,7 +64,7 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 > - Guide: [Click Here](https://docs.google.com/document/d/1VvCn1_FQEbctKMBPlPAQlDBcCUF5senFn6JRook7AXY/edit?usp=sharing)
 > - Code: [Click Here]()		
 
-> *Smartphone Sensors using IoT Plug and Play App with Azure IoT Hub**:				
+> **Smartphone Sensors using IoT Plug and Play App with Azure IoT Hub**:				
 > - Guide: [Click Here](https://docs.google.com/document/d/1mOtLjyq3uH9ogB4_wfchXunXJzlT-LO3Lds4zGW32-s/edit?usp=sharing)
 > - Code: [Click Here]()		
 						
