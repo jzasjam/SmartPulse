@@ -64,15 +64,15 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 
 > **Raspberry Pi with Light Dependent Resistor (LDR)**:
 > - Guide: [Click Here](https://docs.google.com/document/d/1BZ9h3itdNL1fafVchF0Yqr2M9nRScyOUUsq_iEsDIg8/edit?usp=sharing)
-> - Code: [Click Here]()		
+> - Code:
+>   - [ldr-sensor.py](https://github.com/jzasjam/SmartPulse/blob/main/ldr-sensor.py)	
+>   - [ldr-detect.py](https://github.com/jzasjam/SmartPulse/blob/main/ldr-detect.py)		
 
 > **Smartphone Sensors using IoT Plug and Play App with Azure IoT Central**:				
-> - Guide: [Click Here](https://docs.google.com/document/d/1VvCn1_FQEbctKMBPlPAQlDBcCUF5senFn6JRook7AXY/edit?usp=sharing)
-> - Code: [Click Here]()		
+> - Guide: [Click Here](https://docs.google.com/document/d/1VvCn1_FQEbctKMBPlPAQlDBcCUF5senFn6JRook7AXY/edit?usp=sharing)	
 
 > **Smartphone Sensors using IoT Plug and Play App with Azure IoT Hub**:				
 > - Guide: [Click Here](https://docs.google.com/document/d/1mOtLjyq3uH9ogB4_wfchXunXJzlT-LO3Lds4zGW32-s/edit?usp=sharing)
-> - Code: [Click Here]()		
 
 <hr>						
 
