@@ -13,15 +13,21 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 - [Connectivity & Telemetry: Instructions](#connectivity)
 - [AI & Quantum AI: Instructions](#ai)
 
+<hr>
+
 <a name="main-guide"></a>
 #### Main Guide ### 
+
 > General Setup and Development Environment Setup Guide: [Click Here](https://docs.google.com/document/d/1h2tSAFmBCm0hM_lOdg1HRMtnkMllKK4zkzNJHammD90/edit?usp=sharing)
 						
 #### Additional Guides ####						
 > Prerequiste: Enable I2C: [Click Here](https://docs.google.com/document/d/1JRxyUlNvq2x4ubRcfUsW9In6IapMQ2u75k20n_KrV7U/edit?usp=sharing)
-						
+
+<hr>
+
 <a name="sensors"></a>						
-#### Sensor Data: Instructions ####						
+#### Sensor Data: Instructions ####		
+
 > **Raspberry Pi with Adafruit Humidity and Temperature Sensor**:
 > - Guide: [Click Here](https://docs.google.com/document/d/1q9Mn6okB59EjFA-D6o8bpfACr_5ZRMQfcBKuUNrUeCo/edit?usp=sharing)
 > - Code: [temperature-sensor.py](https://github.com/jzasjam/SmartPulse/blob/main/temperature-sensor.py)
@@ -67,10 +73,12 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 > **Smartphone Sensors using IoT Plug and Play App with Azure IoT Hub**:				
 > - Guide: [Click Here](https://docs.google.com/document/d/1mOtLjyq3uH9ogB4_wfchXunXJzlT-LO3Lds4zGW32-s/edit?usp=sharing)
 > - Code: [Click Here]()		
-						
+
+<hr>						
 
 <a name="connectivity"></a>
-#### Connectivity & Telemetry: Instructions####					
+#### Connectivity & Telemetry: Instructions ####		
+
 > **Send Raspberry Pi Sensor Data to Azure IoT Hub**:				
 > - Guide: [Click Here](https://docs.google.com/document/d/1-7GcfvMf7TattVU4k1VQWgt8_OgCBw0K0rvVugQgUp4/edit?usp=sharing)
 > - Code: **COMING SOON!!!**
@@ -87,9 +95,11 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 > - Guide: **COMING SOON!!!**	
 > - Code: **COMING SOON!!!**
 
+<hr>		
 		
 <a name="ai"></a>				
-#### AI & Quantum AI: Instructions ####						
+#### AI & Quantum AI: Instructions ####		
+
 > **AI Image Recognition with Raspberry Pi**:					
 > - Guide: [Click Here](https://docs.google.com/document/d/18lxfKNw0muigpo9Zrlt7ftIjcAVM_QId8fccoZ-JewQ/edit?usp=sharing)
 > - Code:
@@ -101,7 +111,8 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 > - Guide: **COMING SOON!!!**
 > - Code: **COMING SOON!!!**	
 
-> **Qiskit with Raspberry Pi**:								
+> **Qiskit with Raspberry Pi**:					
+> Note: This only works with Raspbian v12 Bookworm			
 > - Guide: [Click Here](https://docs.google.com/document/d/1qPg0w-bKS8jj-LoZmW2UQyQBSruR_vP8OgudmfjIrR4/edit?usp=sharing)
 > - Code: [qiskit-pi](https://github.com/jzasjam/SmartPulse/tree/main/qiskit-pi)
 
