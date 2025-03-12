@@ -1,6 +1,8 @@
-# SmartPulse Hackathon Sample Project Code & Guides
-## For SmartPulse Event at Sheffield Hallam University 15 Apr 2025
-Prepared by Jonathan Zasada-James For Sheffield Hallam University (2025)
+# SmartPulse Hackathon Sample Project Code & Guides #
+## For SmartPulse Event at Sheffield Hallam University 2025 ##
+
+*Prepared by Jonathan Zasada-James at Sheffield Hallam University (2025)*
+
 ------------------------------------------------------------------------
 
 Event Registration: https://cloudeventhallam.azurewebsites.net
@@ -16,9 +18,20 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 <hr>
 
 <a name="main-guide"></a>
-#### Main Guide ### 
+### Main Guide ### 
 
 > General Setup and Development Environment Setup Guide: [Click Here](https://docs.google.com/document/d/1h2tSAFmBCm0hM_lOdg1HRMtnkMllKK4zkzNJHammD90/edit?usp=sharing)
+
+
+#### Getting Started: LEDs, Buttons and Buzzers ### 
+
+> General Components Guide: [Click Here](https://docs.google.com/document/d/1bQy9SwE5os6BgZdQBHF2C5bPazwguYxDTPrudjNQedw/edit?usp=sharing)
+> - Code:
+>   - [led.py](https://github.com/jzasjam/SmartPulse/blob/main/led.py)
+>   - [leds.py](https://github.com/jzasjam/SmartPulse/blob/main/leds.py)
+>   - [button.py](https://github.com/jzasjam/SmartPulse/blob/main/button.py)
+>   - [buzzer.py](https://github.com/jzasjam/SmartPulse/blob/main/buzzer.py)
+	
 						
 #### Additional Guides ####						
 > Prerequiste: Enable I2C: [Click Here](https://docs.google.com/document/d/1JRxyUlNvq2x4ubRcfUsW9In6IapMQ2u75k20n_KrV7U/edit?usp=sharing)
