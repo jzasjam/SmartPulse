@@ -1,3 +1,5 @@
+# Modified from Source: https://gpiozero.readthedocs.io/en/stable/recipes.html#button-controlled-led
+
 from gpiozero import LED, Button
 from time import sleep
 

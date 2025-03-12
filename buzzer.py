@@ -1,3 +1,6 @@
+# Modified from Source: https://gpiozero.readthedocs.io/en/stable/api_output.html#buzzer 
+    # & https://projects.raspberrypi.org/en/projects/physical-computing/8
+
 from gpiozero import Buzzer
 from time import sleep
 
