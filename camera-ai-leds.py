@@ -16,7 +16,7 @@ yellow = LED(17)
 red = LED(27)
 
 # Load Teachable Machine model
-model_path = "fruit-ai/model_unquant.tflite"  # Update with your model's path
+model_path = "camera-ai/model_unquant.tflite"  # Update with your model's path
 interpreter = tflite.Interpreter(model_path=model_path)
 interpreter.allocate_tensors()
 
@@ -25,7 +25,7 @@ input_details = interpreter.get_input_details()
 output_details = interpreter.get_output_details()
 
 # Load labels from labels.txt
-with open("fruit-ai/labels.txt", "r") as f:  # Update with correct path to labels.txt
+with open("camera-ai/labels.txt", "r") as f:  # Update with correct path to labels.txt
     labels = [line.strip() for line in f.readlines()]
 
 # Initialize Picamera2 (Arducam)
