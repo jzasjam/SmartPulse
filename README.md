@@ -49,10 +49,6 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 > - Guide: [Click Here](https://docs.google.com/document/d/1KP89QAXnRT4FUmtGB9H-a_4nPYdvFMehES3DNc0jgts/edit?usp=sharing)
 > - Code: [temperature-sensor.py](https://github.com/jzasjam/SmartPulse/blob/main/temperature-sensor-dht.py)
 
-> **Raspberry Pi with alternative Humidity and Temperature Sensor**: 
-> - Guide: **COMING SOON!!!**	
-> - Code: **COMING SOON!!!**	
-
 > **Raspberry Pi with ArduCam Camera Module**:
 > - Guide: [Click Here](https://docs.google.com/document/d/19jREjWQucDR-Hfd1bmhLBKL5-f6aVjP2qORzBUASdYg/edit?usp=sharing)
 > - Code: [camera.py](https://github.com/jzasjam/SmartPulse/blob/main/camera.py)		
