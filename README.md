@@ -46,7 +46,7 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 > - Code: [temperature-sensor.py](https://github.com/jzasjam/SmartPulse/blob/main/temperature-sensor.py)
 
 > **Raspberry Pi with SEEED Studio: Grove Humidity and Temperature Sensor**:
-> - Guide: [Click Here](https://docs.google.com/document/d/1q9Mn6okB59EjFA-D6o8bpfACr_5ZRMQfcBKuUNrUeCo/edit?usp=sharing)
+> - Guide: [Click Here](https://docs.google.com/document/d/1KP89QAXnRT4FUmtGB9H-a_4nPYdvFMehES3DNc0jgts/edit?usp=sharing)
 > - Code: [temperature-sensor.py](https://github.com/jzasjam/SmartPulse/blob/main/temperature-sensor-dht.py)
 
 > **Raspberry Pi with alternative Humidity and Temperature Sensor**: 
