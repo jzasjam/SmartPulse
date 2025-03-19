@@ -1,10 +1,16 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Use the camera for AI image recognition with a Teachable MAchine model
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
 import cv2
 import numpy as np
 import tflite_runtime.interpreter as tflite
 from picamera2 import Picamera2
 
+model_directory = "camera-ai"
+
 # Load Teachable Machine model
-model_path = "camera-ai/model_unquant.tflite"  # Update with your model's path
+model_path = model_directory+"/model_unquant.tflite"  # Update with your model's path
 interpreter = tflite.Interpreter(model_path=model_path)
 interpreter.allocate_tensors()
 
@@ -13,7 +19,7 @@ input_details = interpreter.get_input_details()
 output_details = interpreter.get_output_details()
 
 # Load labels from labels.txt
-with open("camera-ai/labels.txt", "r") as f:  # Update with correct path to labels.txt
+with open(model_directory+"/labels.txt", "r") as f:  # Update with correct path to labels.txt
     labels = [line.strip() for line in f.readlines()]
 
 # Initialize Picamera2 (Arducam)
