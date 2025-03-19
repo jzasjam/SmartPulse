@@ -59,8 +59,8 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 > - Code: [camera.py](https://github.com/jzasjam/SmartPulse/blob/main/camera.py)		
 
 > **Raspberry Pi with Raspberry Pi Camera Module**: 		 				
-> - Guide: **COMING SOON!!!**
-> - Code: **COMING SOON!!!**
+> - Guide: [Click Here](https://docs.google.com/document/d/1Lh6dk54YybdQqOixGRdndgKgeBCrPigRjAdf0qV1sVA/edit?usp=sharing)
+> - Code: [pi-camera.py](https://github.com/jzasjam/SmartPulse/blob/main/pi-camera.py)
 
 > **Raspberry Pi with Sense HAT**:				
 > - Guide: [Click Here](https://docs.google.com/document/d/13ptuQTUtOxBacALn7Yy3yemlTiUr5nOWhpdBOQgNvVU/edit?usp=sharing)
