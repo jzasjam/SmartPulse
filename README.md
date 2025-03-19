@@ -11,6 +11,7 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 
 #### Contents ####
 - [Main Guide](#main-guide)
+	- [General Components Guide](#components)
 - [Sensor Data: Instructions](#sensors)
 - [Connectivity & Telemetry: Instructions](#connectivity)
 - [AI & Quantum AI: Instructions](#ai)
@@ -24,7 +25,7 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 
 
 #### Getting Started: LEDs, Buttons and Buzzers ### 
-
+<a name="components"></a>	
 > General Components Guide: [Click Here](https://docs.google.com/document/d/1bQy9SwE5os6BgZdQBHF2C5bPazwguYxDTPrudjNQedw/edit?usp=sharing)
 > - Code:
 >   - [led.py](https://github.com/jzasjam/SmartPulse/blob/main/led.py)
@@ -41,17 +42,17 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 <a name="sensors"></a>						
 #### Sensor Data: Instructions ####		
 
-> **Raspberry Pi with Adafruit Humidity and Temperature Sensor**:
+<img alt="ADAHT20" src="https://github.com/user-attachments/assets/ab0d915f-3a7f-4725-a150-9a68cb0ebbbf" width="100" height="100" align="right" title="Adafruit Humidity and Temperature Sensor">
+
+> **Raspberry Pi with **:
 > - Guide: [Click Here](https://docs.google.com/document/d/1q9Mn6okB59EjFA-D6o8bpfACr_5ZRMQfcBKuUNrUeCo/edit?usp=sharing)
 > - Code: [temperature-sensor.py](https://github.com/jzasjam/SmartPulse/blob/main/temperature-sensor.py)
+
+<img alt="DHT11" src="https://github.com/user-attachments/assets/71300b8c-3b38-4367-bf6c-1758a5d258f1" width="100" height="100" align="right" title="SEEED Studio: Grove Humidity and Temperature Sensor">
 
 > **Raspberry Pi with SEEED Studio: Grove Humidity and Temperature Sensor**:
 > - Guide: [Click Here](https://docs.google.com/document/d/1KP89QAXnRT4FUmtGB9H-a_4nPYdvFMehES3DNc0jgts/edit?usp=sharing)
 > - Code: [temperature-sensor.py](https://github.com/jzasjam/SmartPulse/blob/main/temperature-sensor-dht.py)
-
-> **Raspberry Pi with alternative Humidity and Temperature Sensor**: 
-> - Guide: **COMING SOON!!!**	
-> - Code: **COMING SOON!!!**	
 
 > **Raspberry Pi with ArduCam Camera Module**:
 > - Guide: [Click Here](https://docs.google.com/document/d/19jREjWQucDR-Hfd1bmhLBKL5-f6aVjP2qORzBUASdYg/edit?usp=sharing)
