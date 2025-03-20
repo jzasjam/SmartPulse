@@ -1,9 +1,7 @@
 <img width="130" align="right" alt="SHU Logo 2020 White (PNG)" src="https://github.com/user-attachments/assets/cd92fa07-8bc7-4f2f-bf84-a638a6b43400" />
 
-# SmartPulse Hackathon Sample Project Code & Guides #
+# SmartPulse Hackathon: Sample Project Code & Guides #
 ## For SmartPulse Event at Sheffield Hallam University 2025 ##
-
-*Prepared by Jonathan Zasada-James at Sheffield Hallam University (2025)*
 
 ------------------------------------------------------------------------
 
@@ -52,6 +50,16 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 <a name="sensors"></a>						
 ## Sensor Data: Instructions ##		
 
+<img alt="Raspberry Pi Sense HAT" src="https://github.com/user-attachments/assets/901aa1bf-4020-4f2a-827b-8dfe29b84fbf"  height="100" align="right" title="Raspberry Pi Sense HAT">
+
+> **Raspberry Pi with Sense HAT (v1)**:				
+> - Guide: [Click Here](https://docs.google.com/document/d/13ptuQTUtOxBacALn7Yy3yemlTiUr5nOWhpdBOQgNvVU/edit?usp=sharing)
+> - Code:
+>   - [sense-hat.py](https://github.com/jzasjam/SmartPulse/blob/main/sense-hat.py)
+>   - [sense-hat-temperature.py](https://github.com/jzasjam/SmartPulse/blob/main/sense-hat-temperature.py)
+>   - [sense-hat-movement.py](https://github.com/jzasjam/SmartPulse/blob/main/sense-hat-movement.py)
+>   - [sense-hat-joystick.py](https://github.com/jzasjam/SmartPulse/blob/main/sense-hat-joystick.py)
+
 <img alt="ADAHT20" src="https://github.com/user-attachments/assets/ab0d915f-3a7f-4725-a150-9a68cb0ebbbf" width="100" height="100" align="right" title="Adafruit Humidity and Temperature Sensor">
 
 > **Raspberry Pi with Adafruit Humidity and Temperature Sensor (ADAHT20)**:
@@ -64,6 +72,28 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 > - Guide: [Click Here](https://docs.google.com/document/d/1KP89QAXnRT4FUmtGB9H-a_4nPYdvFMehES3DNc0jgts/edit?usp=sharing)
 > - Code: [temperature-sensor-dht.py](https://github.com/jzasjam/SmartPulse/blob/main/temperature-sensor-dht.py)
 
+<img alt="Passive Infrared Sensor (PIR)" src="https://github.com/user-attachments/assets/41dab954-82e5-413a-b6db-6f6d05ce12ea" width="100" height="100" align="right" title="Passive Infrared Sensor (PIR)">
+
+> **Raspberry Pi with Passive Infrared Sensor (PIR)**:				
+> - Guide: [Click Here](https://docs.google.com/document/d/12ccI9a_OaWbOzyINU06lQ8e-NfbL6guI5kzrAqWuGmY/edit?usp=sharing)
+> - Code: [pir-sensor.py](https://github.com/jzasjam/SmartPulse/blob/main/pir-sensor.py)		
+
+<img alt="Ultrasonic Sensor" src="https://github.com/user-attachments/assets/d50f8246-ac79-4360-b7f8-842d411eb55e" width="100" height="100" align="right" title="Ultrasonic Sensor">
+
+> **Raspberry Pi with Ultrasonic Sensor**:				
+> - Guide: [Click Here](https://docs.google.com/document/d/1LFmeR4MW0x95G2gXib5MCCFvxkdLgvzbtz5cIqTLBBU/edit?usp=sharing)
+> - Code:		
+>   - [ultrasonic-sensor.py](https://github.com/jzasjam/SmartPulse/blob/main/ultrasonic-sensor.py)
+>   - [ultrasonic-range.py](https://github.com/jzasjam/SmartPulse/blob/main/ultrasonic-range.py)
+
+<img alt="Light Dependent Resistor (LDR)" src="https://github.com/user-attachments/assets/13880517-6d10-4de9-8f53-69d2a401b8a5" width="100" height="100" align="right" title="Light Dependent Resistor (LDR)">
+
+> **Raspberry Pi with Light Dependent Resistor (LDR)**:
+> - Guide: [Click Here](https://docs.google.com/document/d/1BZ9h3itdNL1fafVchF0Yqr2M9nRScyOUUsq_iEsDIg8/edit?usp=sharing)
+> - Code:
+>   - [ldr-sensor.py](https://github.com/jzasjam/SmartPulse/blob/main/ldr-sensor.py)	
+>   - [ldr-detect.py](https://github.com/jzasjam/SmartPulse/blob/main/ldr-detect.py)	
+
 <img alt="ArduCam Camera Module" src="https://github.com/user-attachments/assets/6f1cb431-70cb-46f0-96c8-d6e2ce1f9ac5" width="100" height="100" align="right" title="ArduCam Camera Module">
 
 > **Raspberry Pi with ArduCam Camera Module (IMX519)**:
@@ -75,38 +105,6 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 > **Raspberry Pi with Raspberry Pi Camera Module 2**: 		 				
 > - Guide: [Click Here](https://docs.google.com/document/d/1Lh6dk54YybdQqOixGRdndgKgeBCrPigRjAdf0qV1sVA/edit?usp=sharing)
 > - Code: [pi-camera.py](https://github.com/jzasjam/SmartPulse/blob/main/pi-camera.py)
-
-<img alt="Raspberry Pi Sense HAT" src="https://github.com/user-attachments/assets/901aa1bf-4020-4f2a-827b-8dfe29b84fbf" width="100" height="100" align="right" title="Raspberry Pi Sense HAT">
-
-> **Raspberry Pi with Sense HAT v1**:				
-> - Guide: [Click Here](https://docs.google.com/document/d/13ptuQTUtOxBacALn7Yy3yemlTiUr5nOWhpdBOQgNvVU/edit?usp=sharing)
-> - Code:
->   - [sense-hat.py](https://github.com/jzasjam/SmartPulse/blob/main/sense-hat.py)
->   - [sense-hat-temperature.py](https://github.com/jzasjam/SmartPulse/blob/main/sense-hat-temperature.py)
->   - [sense-hat-movement.py](https://github.com/jzasjam/SmartPulse/blob/main/sense-hat-movement.py)
->   - [sense-hat-joystick.py](https://github.com/jzasjam/SmartPulse/blob/main/sense-hat-joystick.py)
-
-<img alt="Passive Infrared Sensor (PIR)" src="https://github.com/user-attachments/assets/41dab954-82e5-413a-b6db-6f6d05ce12ea" width="100" height="100" align="right" title="Passive Infrared Sensor (PIR)">
-
-> **Raspberry Pi with Passive Infrared Sensor (PIR)**:				
-> - Guide: [Click Here](https://docs.google.com/document/d/12ccI9a_OaWbOzyINU06lQ8e-NfbL6guI5kzrAqWuGmY/edit?usp=sharing)
-> - Code: [pir-sensor.py](https://github.com/jzasjam/SmartPulse/blob/main/pir-sensor.py)		
-
-<img alt="Ultrasonic Sensor" src="https://github.com/user-attachments/assets/d50f8246-ac79-4360-b7f8-842d411eb55e" width="100" height="100" align="right" title="Ultrasonic Sensor">
-
-> **Raspberry Pi with Ultrasonic Sensor**:				
-> - Guide: [Click Here](https://docs.google.com/document/d/1LFmeR4MW0x95G2gXib5MCCFvxkdLgvzbtz5cIqTLBBU/edit?usp=sharing)
-> - Code:
->   - [ultrasonic-range.py](https://github.com/jzasjam/SmartPulse/blob/main/ultrasonic-range.py)		
->   - [ultrasonic-sensor.py](https://github.com/jzasjam/SmartPulse/blob/main/ultrasonic-sensor.py)
-
-<img alt="Light Dependent Resistor (LDR)" src="https://github.com/user-attachments/assets/13880517-6d10-4de9-8f53-69d2a401b8a5" width="100" height="100" align="right" title="Light Dependent Resistor (LDR)">
-
-> **Raspberry Pi with Light Dependent Resistor (LDR)**:
-> - Guide: [Click Here](https://docs.google.com/document/d/1BZ9h3itdNL1fafVchF0Yqr2M9nRScyOUUsq_iEsDIg8/edit?usp=sharing)
-> - Code:
->   - [ldr-sensor.py](https://github.com/jzasjam/SmartPulse/blob/main/ldr-sensor.py)	
->   - [ldr-detect.py](https://github.com/jzasjam/SmartPulse/blob/main/ldr-detect.py)	
 
 <img alt="IoT Plug and Play App" src="https://github.com/user-attachments/assets/4ba6e5b3-0218-486d-b800-0d326f00fd3f" width="100" height="100" align="right" title="IoT Plug and Play App">	
 
@@ -160,3 +158,6 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 > - Code: [qiskit-pi](https://github.com/jzasjam/SmartPulse/tree/main/qiskit-pi)
 
 
+------------------------------------------------------------------------------------------
+
+*Documentation and examples prepared by Jonathan Zasada-James at Sheffield Hallam University (2025)*
