@@ -106,6 +106,16 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 > - Guide: [Click Here](https://docs.google.com/document/d/1Lh6dk54YybdQqOixGRdndgKgeBCrPigRjAdf0qV1sVA/edit?usp=sharing)
 > - Code: [pi-camera.py](https://github.com/jzasjam/SmartPulse/blob/main/pi-camera.py)
 
+<img alt="BBC micro:bit" src="https://github.com/user-attachments/assets/55c8aec2-16e5-47d3-abc2-64e100d81a0c" width="100" height="100" align="right" title="BBC micro:bit">	
+
+> **Raspberry Pi with BBC micro:bits**:
+> - Guide: [Click Here](https://docs.google.com/document/d/1DOTJJ8Ztku1zXKStiMSjb6GC3Nsa7z47r-OVNEnim-Y/edit?usp=sharing)
+> - Code:
+>   - [pi-microbit.py](https://github.com/jzasjam/SmartPulse/blob/main/pi-microbit.py)
+>   - [pi-microbit-leds.py](https://github.com/jzasjam/SmartPulse/blob/main/pi-microbit-leds.py)
+>   - [microbit-pi.py](https://github.com/jzasjam/SmartPulse/blob/main/microbit-pi.py)
+>   - [microbit-microbit.py](https://github.com/jzasjam/SmartPulse/blob/main/microbit-microbit.py)
+
 <img alt="IoT Plug and Play App" src="https://github.com/user-attachments/assets/4ba6e5b3-0218-486d-b800-0d326f00fd3f" width="100" height="100" align="right" title="IoT Plug and Play App">	
 
 > **Smartphone Sensors using IoT Plug and Play App with Azure IoT Central**:				
