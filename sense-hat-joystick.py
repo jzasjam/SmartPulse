@@ -1,6 +1,6 @@
 # Modified from Source: https://pythonhosted.org/sense-hat 
 
-
+from time import sleep
 # Import dependencies
 from sense_hat import SenseHat
 
@@ -25,6 +25,12 @@ def do_thing(event):
               print('Down')
       elif event.action == 'released':
           print(f'You released {event.direction}')
-
+	  
+  
 # Initialise the event handler for joystick pressed in any direction
 sense.stick.direction_any = do_thing
+
+while(True):	
+    # Wait for activity
+    sleep(0.1)
+    
