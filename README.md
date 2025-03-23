@@ -122,7 +122,7 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 > - Guide: [Click Here](https://docs.google.com/document/d/1VvCn1_FQEbctKMBPlPAQlDBcCUF5senFn6JRook7AXY/edit?usp=sharing)
 
 > **Smartphone Sensors using IoT Plug and Play App with Azure IoT Hub**:				
-> - Guide: [Click Here](https://docs.google.com/document/d/1mOtLjyq3uH9ogB4_wfchXunXJzlT-LO3Lds4zGW32-s/edit?usp=sharing)
+> - Guide: [Click Here](https://docs.google.com/document/d/1mOtLjyq3uH9ogB4_wfchXunXJzlT-LO3Lds4zGW32-s/edit?usp=sharing) [DOCS UNDER CONSTRUCTION]
 
 <hr>
 				
@@ -131,11 +131,11 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 ## Connectivity & Telemetry: Instructions ##		
 
 > **Send Raspberry Pi Sensor Data to Azure IoT Hub**:				
-> - Guide: [Click Here](https://docs.google.com/document/d/1-7GcfvMf7TattVU4k1VQWgt8_OgCBw0K0rvVugQgUp4/edit?usp=sharing)
+> - Guide: [Click Here](https://docs.google.com/document/d/1-7GcfvMf7TattVU4k1VQWgt8_OgCBw0K0rvVugQgUp4/edit?usp=sharing) [DOCS UNDER CONSTRUCTION]
 > - Code: **COMING SOON!!!**
 
 > **Send Raspberry Pi Sensor Data to Azure IoT Central**:	
-> - Guide: [Click Here](https://docs.google.com/document/d/1SXGpHs6pJBztK406Afxh9otCrv8vcIZBztuNE_M1XKY/edit?usp=sharing)
+> - Guide: [Click Here](https://docs.google.com/document/d/1SXGpHs6pJBztK406Afxh9otCrv8vcIZBztuNE_M1XKY/edit?usp=sharing) [DOCS UNDER CONSTRUCTION]
 > - Code: **COMING SOON!!!**		
 
 > **Send Raspberry Pi Simulator Data to Azure IoT Hub**:
@@ -164,7 +164,7 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 
 > **Qiskit with Raspberry Pi**:					
 > Note: This only works with Raspbian v12 Bookworm			
-> - Guide: [Click Here](https://docs.google.com/document/d/1qPg0w-bKS8jj-LoZmW2UQyQBSruR_vP8OgudmfjIrR4/edit?usp=sharing)
+> - Guide: [Click Here](https://docs.google.com/document/d/1qPg0w-bKS8jj-LoZmW2UQyQBSruR_vP8OgudmfjIrR4/edit?usp=sharing) [DOCS UNDER CONSTRUCTION]
 > - Code: [qiskit-pi](https://github.com/jzasjam/SmartPulse/tree/main/qiskit-pi)
 
 
