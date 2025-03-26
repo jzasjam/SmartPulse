@@ -50,6 +50,18 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 <a name="sensors"></a>						
 ## Sensor Data: Instructions ##		
 
+### Smartphone Sensors ###
+<hr />
+<img alt="IoT Plug and Play App" src="https://github.com/user-attachments/assets/4ba6e5b3-0218-486d-b800-0d326f00fd3f" width="100" height="100" align="right" title="IoT Plug and Play App">	
+
+> **Smartphone Sensors using IoT Plug and Play App with Azure IoT Central**:				
+> - Guide: [Click Here](https://docs.google.com/document/d/1VvCn1_FQEbctKMBPlPAQlDBcCUF5senFn6JRook7AXY/edit?usp=sharing)
+
+> **Smartphone Sensors using IoT Plug and Play App with Azure IoT Hub**:				
+> - Guide: [Click Here](https://docs.google.com/document/d/1mOtLjyq3uH9ogB4_wfchXunXJzlT-LO3Lds4zGW32-s/edit?usp=sharing)
+
+### Raspberry Pi Sensors ###
+<hr />
 <img alt="Raspberry Pi Sense HAT" src="https://github.com/user-attachments/assets/901aa1bf-4020-4f2a-827b-8dfe29b84fbf"  height="100" align="right" title="Raspberry Pi Sense HAT">
 
 > **Raspberry Pi with Sense HAT (v1)**:				
@@ -116,14 +128,6 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 >   - [microbit-pi.py](https://github.com/jzasjam/SmartPulse/blob/main/microbit-pi.py)
 >   - [microbit-microbit.py](https://github.com/jzasjam/SmartPulse/blob/main/microbit-microbit.py)
 
-<img alt="IoT Plug and Play App" src="https://github.com/user-attachments/assets/4ba6e5b3-0218-486d-b800-0d326f00fd3f" width="100" height="100" align="right" title="IoT Plug and Play App">	
-
-> **Smartphone Sensors using IoT Plug and Play App with Azure IoT Central**:				
-> - Guide: [Click Here](https://docs.google.com/document/d/1VvCn1_FQEbctKMBPlPAQlDBcCUF5senFn6JRook7AXY/edit?usp=sharing)
-
-> **Smartphone Sensors using IoT Plug and Play App with Azure IoT Hub**:				
-> - Guide: [Click Here](https://docs.google.com/document/d/1mOtLjyq3uH9ogB4_wfchXunXJzlT-LO3Lds4zGW32-s/edit?usp=sharing) [DOCS UNDER CONSTRUCTION]
-
 <hr>
 				
 
@@ -141,10 +145,6 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 > **Send Raspberry Pi Simulator Data to Azure IoT Hub**:
 > - Guide: **COMING SOON!!!**
 > - Code: **COMING SOON!!!**	
-
-> **Send Smartphone Sensor Data to Azure IoT Hub**:		
-> - Guide: **COMING SOON!!!**	
-> - Code: **COMING SOON!!!**
 
 <hr>		
 		
