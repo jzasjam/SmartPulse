@@ -134,9 +134,13 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 <a name="connectivity"></a>
 ## Connectivity & Telemetry: Instructions ##		
 
+<img name="azure-iot-hub" alt="Azure IoT Hub" src="https://github.com/user-attachments/assets/efe5faf3-b4a1-4e41-8efc-e9b800bd307f" width="100" height="100" align="right" title="Azure IoT Hub">	
+
 > **Send Raspberry Pi Sensor Data to Azure IoT Hub**:				
-> - Guide: [Click Here](https://docs.google.com/document/d/1-7GcfvMf7TattVU4k1VQWgt8_OgCBw0K0rvVugQgUp4/edit?usp=sharing) [DOCS UNDER CONSTRUCTION]
-> - Code: **COMING SOON!!!**
+> - Guide: [Click Here](https://docs.google.com/document/d/1-7GcfvMf7TattVU4k1VQWgt8_OgCBw0K0rvVugQgUp4/edit?usp=sharing)
+> - Code: [sense-hat-iothub.py](https://github.com/jzasjam/SmartPulse/blob/main/sense-hat-iothub.py)
+
+<img name="azure-iot-central" alt="Azure IoT Central" src="https://github.com/user-attachments/assets/c4de00a2-8c34-446f-a25f-21f0647db546" width="100" height="100" align="right" title="Azure IoT Central">
 
 > **Send Raspberry Pi Sensor Data to Azure IoT Central**:	
 > - Guide: [Click Here](https://docs.google.com/document/d/1SXGpHs6pJBztK406Afxh9otCrv8vcIZBztuNE_M1XKY/edit?usp=sharing)
@@ -145,7 +149,9 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 <hr>		
 		
 <a name="ai"></a>				
-## AI & Quantum AI: Instructions ##		
+## AI & Quantum AI: Instructions ##	
+
+<img name="teachable--machine" alt="Google Teachable Machine" src="https://github.com/user-attachments/assets/2d0f8c3a-6acc-4969-96b9-8a1cdf3daa1f" width="100" height="100" align="right" title="Google Teachable Machine">
 
 > **AI Image Recognition with Raspberry Pi**:					
 > - Guide: [Click Here](https://docs.google.com/document/d/18lxfKNw0muigpo9Zrlt7ftIjcAVM_QId8fccoZ-JewQ/edit?usp=sharing)
@@ -153,6 +159,7 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 >   - [camera-ai.py](https://github.com/jzasjam/SmartPulse/blob/main/camera-ai.py)
 >   - [camera-ai-leds.py](https://github.com/jzasjam/SmartPulse/blob/main/camera-ai-leds.py)
 
+<img name="microbit-create-ai" alt="BBC micro:bit Create AI" src="https://github.com/user-attachments/assets/9b06b706-91dc-4818-a859-e2322f9943e6" width="100" height="100" align="right" title="BBC micro:bit Create AI">
 
 > **AI Motion Recognition with micro:bits and Raspberry Pi**:
 > - Guide: [Click Here](https://docs.google.com/document/d/1DOTJJ8Ztku1zXKStiMSjb6GC3Nsa7z47r-OVNEnim-Y/edit?usp=sharing)
