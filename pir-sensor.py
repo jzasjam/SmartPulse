@@ -1,3 +1,7 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# USE A PIR (PASSIVE INFRARED) SENSOR WITH RASPBERRY PI)
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
 from gpiozero import MotionSensor
 from datetime import datetime
 

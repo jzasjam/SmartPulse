@@ -1,3 +1,7 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# DETECT THE SENSE HAT MOVEMMENT
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
 # Modified from Source: https://pythonhosted.org/sense-hat 
 
 # Import dependencies

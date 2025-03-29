@@ -1,3 +1,7 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#  CODE FOR MICROBIT COMMMUNICATING WITH THE RASPBERRY PI
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
 # USE: https://python.microbit.org/v/3
 
 from microbit import *

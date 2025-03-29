@@ -1,3 +1,6 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# GET THE LDR (Light Dependant Resistor) LIGHT SENSOR VALUE
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Source: Modified from https://gpiozero.readthedocs.io/en/latest/recipes.html#light-sensor 
 
 from gpiozero import LightSensor

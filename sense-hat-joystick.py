@@ -1,3 +1,7 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# DETECT THE SENSE HAT JOYSTICK EVENTS
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
 # Modified from Source: https://pythonhosted.org/sense-hat 
 
 from time import sleep

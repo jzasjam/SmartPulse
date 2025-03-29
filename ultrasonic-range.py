@@ -1,3 +1,7 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# USE A ULTRASINIC SENSOR WITH RASPBERRY PI) TO DETECT SOMETHING IN/OUT OF RANGE
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
 # Source: Modified from https://projects.raspberrypi.org/en/projects/physical-computing/12 
 
 from gpiozero import DistanceSensor

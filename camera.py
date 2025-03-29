@@ -1,4 +1,6 @@
-# Description:
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Take A Picture With The Camera
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 from picamera2 import Picamera2
 import time

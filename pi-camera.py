@@ -1,3 +1,6 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# TAKE A PICTURE WIITH THE PI CAMERA
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 from datetime import datetime
 

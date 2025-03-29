@@ -1,3 +1,7 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# USE A ULTRASINIC SENSOR WITH RASPBERRY PI) TO DETECT SOMETHINGS RANGE
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
 from gpiozero import DistanceSensor
 import time
   

@@ -1,3 +1,8 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# COMMUNICATE WITH THE MICROBIT (FROM THE RASPBERRY PI)
+    # + Lighet LEDS
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
 import serial
 import time
 from gpiozero import LED
@@ -21,6 +26,7 @@ message = "Hi from Pi"  # Message to send to micro:bit
 s.write(message.encode('utf-8'))  # Serial write the message encoded
 print('Send to micro:bit '+message) # Output to console
 
+# Listen for messaged from micro:bit
 while True:
 
     time.sleep(1)  # Delay to prevent spamming micro:bit

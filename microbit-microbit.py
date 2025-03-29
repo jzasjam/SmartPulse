@@ -1,3 +1,6 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# CODE FOR MICROBIT (V2) PERFORMING MOTION/POSTION DETECTION
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # USE: https://createai.microbit.org/code
         # Example with model including action: walking
 

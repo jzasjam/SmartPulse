@@ -1,3 +1,7 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#  ADAFRUIT TEMPERATURE & HUMIDITY SENSOR
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
 # Source: https://github.com/adafruit/Adafruit_CircuitPython_AHTx0/blob/main/examples/ahtx0_simpletest.py 
 
 # SPDX-FileCopyrightText: 2021 ladyada for Adafruit Industries

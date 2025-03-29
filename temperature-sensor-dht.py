@@ -1,4 +1,7 @@
-# FOR USE WITH THE SEEED STUDIO DHT11 TEMPERATURE & HUMIDITY SENSOR DHT11
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# USE THE SEEED STUDIO DHT11 TEMPERATURE & HUMIDITY SENSOR DHT11
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
 # Source: https://pimylifeup.com/raspberry-pi-dht11-sensor
 
 import time

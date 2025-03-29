@@ -1,3 +1,7 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# GET THE LDR (Light Dependant Resistor) LIGHT EVENTS
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
 from gpiozero import LightSensor
 
 sensor = LightSensor(18)

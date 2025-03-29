@@ -1,3 +1,7 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# TEST THE SENSE HAT LEDs
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
 # Modified from Source: https://pythonhosted.org/sense-hat 
 
 # Import dependencies

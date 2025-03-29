@@ -1,5 +1,6 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-# Use the camera for AI image recognition with a Teachable MAchine model
+# USE THE CAMERA FOR AI IMAGE RECOGNITION
+    # with a Teachable Machine model
     # and light up LEDs depending on predicted class
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 

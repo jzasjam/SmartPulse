@@ -1,7 +1,9 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-# Use the camera for AI image recognition with a Teachable MAchine model
+# Use the camera for AI image recognition with a Teachable Machine model
+    # and light up LEDs depending on predicted class
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
+# Import required libraries
 import cv2
 import numpy as np
 import tflite_runtime.interpreter as tflite
@@ -27,6 +29,9 @@ picam2 = Picamera2()
 config = picam2.create_still_configuration()
 picam2.configure(config)
 
+# Enable Auto White Balance (AWB) to fix colors
+picam2.set_controls({"AwbMode": 1})  # 1 = Auto white balance
+
 # Set up OpenCV window size
 window_width = 640  # Adjust the window size as desired
 window_height = 480  # Adjust the window size as desired
@@ -40,6 +45,9 @@ try:
     while True:
         # Capture frame manually from Picamera2
         frame = picam2.capture_array()  # Capture frame as a numpy array
+
+        # Convert from BGR to RGB (to fix color issues)
+        frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
         
         # Resize and preprocess the image for the model
         img_resized = cv2.resize(frame, (224, 224))  # Resize to model input size
@@ -59,8 +67,8 @@ try:
         print(f"Confidence: {output_data[0][predicted_class]:.4f}")
         
         # Overlay predicted label on the frame
-        cv2.putText(frame, f"Class: {predicted_label}", (10, 30),
-                    cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
+        cv2.putText(frame, f"Class: {predicted_label}", (100, 350),
+                    cv2.FONT_HERSHEY_SIMPLEX, 10, (0, 255, 0), 10)
 
         # Display the frame with the prediction
         cv2.imshow("Preview", frame)

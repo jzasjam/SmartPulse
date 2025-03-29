@@ -1,3 +1,7 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# COMMUNICATE WITH THE MICROBIT (FROM THE RASPBERRY PI)
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
 import serial
 import time
 

@@ -1,3 +1,7 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# DETECT THE SENSE HAT TEMPERATURE
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
 # Modified from Source: https://pythonhosted.org/sense-hat 
 
 # Import dependencies

@@ -6,7 +6,7 @@ import json
 # Azure IoT Central credentials (Replace with your actual values)
 ID_SCOPE = "0ne00ED695A"
 DEVICE_ID = "smartpulsepi"
-DEVICE_KEY = "qHBiek1nfggaEWKvamF3+VpXIZA6J3xVoyrqpShKd7x="
+DEVICE_KEY = "qHBiek1nfggaEWKvamF3+VpXIZA6J3xVoyrqpShKd7w="
 
 # Global endpoint for Azure DPS
 DPS_ENDPOINT = "global.azure-devices-provisioning.net"
