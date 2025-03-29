@@ -139,12 +139,8 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 > - Code: **COMING SOON!!!**
 
 > **Send Raspberry Pi Sensor Data to Azure IoT Central**:	
-> - Guide: [Click Here](https://docs.google.com/document/d/1SXGpHs6pJBztK406Afxh9otCrv8vcIZBztuNE_M1XKY/edit?usp=sharing) [DOCS UNDER CONSTRUCTION]
-> - Code: **COMING SOON!!!**		
-
-> **Send Raspberry Pi Simulator Data to Azure IoT Hub**:
-> - Guide: **COMING SOON!!!**
-> - Code: **COMING SOON!!!**	
+> - Guide: [Click Here](https://docs.google.com/document/d/1SXGpHs6pJBztK406Afxh9otCrv8vcIZBztuNE_M1XKY/edit?usp=sharing)
+> - Code: [sense-hat-iotc.py](https://github.com/jzasjam/SmartPulse/blob/main/sense-hat-iotc.py)		
 
 <hr>		
 		
