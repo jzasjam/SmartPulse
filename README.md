@@ -104,7 +104,7 @@ Event Registration: https://cloudeventhallam.azurewebsites.net
 
 <img alt="Raspberry Pi Camera Module 2" src="https://github.com/user-attachments/assets/9e6a2c97-3ac7-4b58-8b49-28ade104e3a6" width="100" height="100" align="right" title="Raspberry Pi Camera Module 2">
 
-> **Raspberry Pi with Raspberry Pi Camera Module 2**: 		 				
+> **Raspberry Pi with Raspberry Pi Camera Module 2 / 3**: 		 				
 > - Guide: [Click Here](https://docs.google.com/document/d/1Lh6dk54YybdQqOixGRdndgKgeBCrPigRjAdf0qV1sVA/edit?usp=sharing)
 > - Code: [pi-camera.py](https://github.com/jzasjam/SmartPulse/blob/main/pi-camera.py)
 
